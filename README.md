@@ -1,2 +1,3 @@
 # nnbs
-Net Ninja Bootstrap Crash Course
+## My Net Ninja Bootstrap Crash Course scratchings
+
